@@ -1,0 +1,17 @@
+# WiFi credentials
+wifi_config.py
+
+# Data files
+*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Micropython precompiled files
+*.mpy
+
+# IDE specific files
+.vscode/
+.idea/
